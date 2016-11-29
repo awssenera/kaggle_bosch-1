@@ -1,7 +1,7 @@
 {
 	"source_dir":"/Users/thughes/tmp/data/",
 	"train_numeric_file": "train_numeric.csv",
-	"train_categorical_file": "train_categorical",
+	"train_categorical_file": "train_categorical.csv",
 	"test_numeric_file": "test_numeric.csv",
 	"test_categorical_file": "test_categorical.csv",
 	"sample_submission_file": "sample_submission.csv",
